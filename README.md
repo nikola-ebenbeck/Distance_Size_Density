@@ -1,5 +1,5 @@
-# What if... there were no special schools?
-This repo combines my work on the simulation of special school closures in Bavaria.
+# Special Schools in Bavaria
+This repo combines my work on  special schools in Bavaria from a systemic point of view, including simulation studies of special school closures.
 
 **Study 1**: Ebenbeck, N., Rieser, J., Jungjohann, J., & Gebhardt, M. (2022). How the existence of special schools affects the placement of students with special needs in inclusive primary schools. Journal of Research in Special Educational Needs, Article 1471-3802.12565. https://doi.org/10.1111/1471-3802.12565
 
