@@ -1,12 +1,3 @@
-################################################################################
-#
-# This syntax belongs to:
-# Every Primary School Needs a Special Educator
-#
-# Further contact: Dr. Nikola Ebenbeck (she/her) - nikola.ebenbeck@lmu.de
-#
-################################################################################
-
 # 0. Setting up ----------------------------------------------------------------
 
 # Packages
